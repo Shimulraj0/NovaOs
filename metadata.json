@@ -1,0 +1,6 @@
+{
+  "name": "NovaOS",
+  "description": "On-device AI voice and text system task assistant powered by local reasoning for privacy and speed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
